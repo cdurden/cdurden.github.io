@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8" name=viewport content='width=500'>
+    <title>untitled</title>
+    <link rel="stylesheet" href="../../css/main.css"/>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <!--<script src="https://code.jquery.com/jquery-1.12.4.js"></script>-->
+    <script src="http://localhost/js/jquery-latest.min.js"></script>
+    <script src="http://localhost/js/jquery-ui-1.12.1/jquery-ui.js"></script>
+    <!--<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>-->
+    <script>
+      $( function() {
+        $( "#accordion" ).accordion({
+          heightStyle: "content"
+        });
+      });
+    </script>
+<!--
+    <script tal:condition="context.use_mathjax" src="http://localhost/static/js/MathJax/MathJax.js" type="text/javascript"></script>
+    <script tal:condition="context.use_mathjax" src="()/js/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>-->
+    <script src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&delayStartupUntil=configured"></script>
+    <!--<script tal:condition="context.use_mathjax" type="text/javascript"> MathJax.Hub.Config({ "tex2jax": { inlineMath: [ [ '$', '$' ] ] } }); </script>-->
+    <script type="text/javascript"> 
+      $(window).load(function() {
+        MathJax.Hub.Config({
+          tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$'], ['\\(','\\)']]
+          }
+        });
+        MathJax.Hub.Configured();
+      });
+    </script>
+    
+    
+    
+    <more></more>
+</head>
+<body>
+<header class=".ui-widget-header">
+    
+      
+    
+</header>
+
+<nav>
+    
+      <ul>
+<li><a href="../../index.html">Home</a></li>
+<li><a href="../../teaching.md.html">Teaching</a></li>
+<li><a href="../../tools.md.html">Tools</a></li>
+<li><a href="../../paddling.md.html">Paddling</a></li>
+</ul>
+    
+</nav>
+<main>
+<section>
+    <div id="content">
+      
+        <h1 id="graph-the-derivative-take-home-portion-of-test-1">Graph the derivative (take-home portion of test 1)</h1>
+<p><strong>Due at 3PM on Wednesday, February 3</strong></p>
+<p>Visit the GeoGebra Calculus Applets site entitled Try to Graph the Derivative Function. <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_try_to_graph.html">Here is the link</a>. The site should load an applet with an interactive graph, and below the applet graph is given the following task:</p>
+<p><em>You are given the graph of $f(x)$, and your task is to show what $f'(x)$ looks like.</em></p>
+<p>Experiment with the applet, and study the concept of the derivative, until you understand how to complete the task. You may click "Show results!" in order to help you understand the concept of the derivative, and to assess your own understanding. <a href="http://webspace.ship.edu/msrenault/GeoGebraCalculus/derivative_as_a_function.html">The applet at this link could also be helpful as you prepare</a>.</p>
+<p>When you are ready, you will reset the graph (by clicking reset or reloading the page in your web browser) and take the test: 
+The test is to create an accurate graph of the derivative without unauthorized aid (if you need assistance on this task, please contact me), and then click the button labeled "Check accuracy." A percentage score should appear next to the "Check accuracy" button. You will then need to print the page, take a screenshot of it, or print it to PDF, and submit your document to me, in person or by email. The percentage score that you get will be your score on this take-home portion of test 1. It will be worth $10\%$ of your test 1 grade.</p>
+<p>This assignment will be due to me by 3PM on Wednesday, February 3.</p>
+      
+    </div>
+</section>
+</main>
+<footer>
+</footer>
+</body>
+</html>

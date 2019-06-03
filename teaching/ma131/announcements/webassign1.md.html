@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8" name=viewport content='width=500'>
+    <title>Entering a complex numerical expression into WebAssign</title>
+    <link rel="stylesheet" href="../../../css/main.css"/>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <!--<script src="https://code.jquery.com/jquery-1.12.4.js"></script>-->
+    <script src="http://localhost/js/jquery-latest.min.js"></script>
+    <script src="http://localhost/js/jquery-ui-1.12.1/jquery-ui.js"></script>
+    <!--<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>-->
+    <script>
+      $( function() {
+        $( "#accordion" ).accordion({
+          heightStyle: "content"
+        });
+      });
+    </script>
+<!--
+    <script tal:condition="context.use_mathjax" src="http://localhost/static/js/MathJax/MathJax.js" type="text/javascript"></script>
+    <script tal:condition="context.use_mathjax" src="()/js/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>-->
+    <script src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&delayStartupUntil=configured"></script>
+    <!--<script tal:condition="context.use_mathjax" type="text/javascript"> MathJax.Hub.Config({ "tex2jax": { inlineMath: [ [ '$', '$' ] ] } }); </script>-->
+    <script type="text/javascript"> 
+      $(window).load(function() {
+        MathJax.Hub.Config({
+          tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$'], ['\\(','\\)']]
+          }
+        });
+        MathJax.Hub.Configured();
+      });
+    </script>
+    
+    
+    
+    <more></more>
+</head>
+<body>
+<header class=".ui-widget-header">
+    
+      
+    
+</header>
+
+<nav>
+    
+      <ul>
+<li><a href="../../../index.html">Home</a></li>
+<li><a href="../../../teaching.md.html">Teaching</a></li>
+<li><a href="../../../tools.md.html">Tools</a></li>
+<li><a href="../../../paddling.md.html">Paddling</a></li>
+</ul>
+    
+</nav>
+<main>
+<section>
+    <div id="content">
+      
+        <h1 id="entering-a-complex-numerical-expression-into-webassign">Entering a complex numerical expression into WebAssign</h1>
+<p>This is an example problem (from class) meant to demonstrate how to enter solutions into WebAssign. My suggestion is that you <em>do not round</em> (that way you do not have to worry about rounding error). Instead you can enter your solution the way that is shown at the end of this example.</p>
+<p>Given the following difference equation</p>
+<p>
+<script type="math/tex; mode=display">y_{n+1} = 0.2 y_n + 4.8</script>
+</p>
+<p>and the initial value, $y_0 = 11$</p>
+<p>Use the solution of the difference equation to calculate </p>
+<p><strong>Solution:</strong>
+Here $a=0.2, b=4.8$, and</p>
+<p>
+<script type="math/tex; mode=display">\frac{b}{1-a} = \frac{4.8}{0.8} = 6.</script>
+</p>
+<p>$a \ne 0$, so the general solution gives:</p>
+<p>
+<script type="math/tex; mode=display">y_{20} = 6 + (11-6)\cdot(0.2)^{20} = 6+5(0.2)^20.</script>
+</p>
+<p><strong>Note:</strong> To enter this answer into WebAssign, use "**" to raise a number to a power. So, this answer can be entered as:</p>
+<pre><code>6+5*(0.2**20)
+</code></pre>
+<p>or</p>
+<pre><code>6+5*0.2**20
+</code></pre>
+      
+    </div>
+</section>
+</main>
+<footer>
+</footer>
+</body>
+</html>

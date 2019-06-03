@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8" name=viewport content='width=500'>
+    <title>JMA Math 7</title>
+    <link rel="stylesheet" href="css/main.css"/>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <!--<script src="https://code.jquery.com/jquery-1.12.4.js"></script>-->
+    <script src="js/jquery-latest.min.js"></script>
+    <script src="js/jquery-ui-1.12.1/jquery-ui.js"></script>
+    <!--<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>-->
+    <script>
+      $( function() {
+        $( "#accordion" ).accordion({
+          heightStyle: "content"
+        });
+      });
+    </script>
+<!--
+    <script tal:condition="context.use_mathjax" src="http://localhost/jmamath7/static/js/MathJax/MathJax.js" type="text/javascript"></script>
+    <script tal:condition="context.use_mathjax" src="()/js/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>-->
+    <script src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&delayStartupUntil=configured"></script>
+    <!--<script tal:condition="context.use_mathjax" type="text/javascript"> MathJax.Hub.Config({ "tex2jax": { inlineMath: [ [ '$', '$' ] ] } }); </script>-->
+    <script type="text/javascript"> 
+      $(window).load(function() {
+        MathJax.Hub.Config({
+          tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$'], ['\\(','\\)']]
+          }
+        });
+        MathJax.Hub.Configured();
+      });
+    </script>
+    
+    
+    
+    <more></more>
+</head>
+<body>
+<header class=".ui-widget-header">
+    
+      <h1><img src="http://localhost/images/jma_crest.png" alt="JMA crest" align="middle" style="height:144px;"/> JMA 7th grade math <img src="http://localhost/images/pi_pencils.png" align="middle" style="height:144px;"/> </h1>
+    
+</header>
+
+<nav>
+    
+      <p><a href="http://localhost/index.md">Main Page</a> | <a href="http://localhost/homework/index.md">Homework</a> | <a href="http://localhost/projects/index.md">Projects</a> | <a href="http://localhost/warmups/index.md">Warm-ups</a> | <a href="http://localhost/classwork/index.md">Classwork</a> | <a href="http://classroom.google.com">Google Classroom</a> | <a href="http://localhost/links.md">Other Resources</a> | <a href="http://localhost/contact.md">Contact</a></p>
+    
+</nav>
+<main>
+<section>
+    <div id="content">
+      
+        <h1 id="announcements">Announcements</h1>
+<h2 id="january-17-2018-relearn-and-retake">January 17, 2018 - Relearn and Retake</h2>
+<p>Scholars in Mr. Durden's classes have the opportunity to relearn and retake their last three quizzes by completing the "Relearn and Retake" assignments, which can be found in Canvas. Scholars can raise their quiz scores up to 79% by completing these assignments.</p>
+<h2 id="january-15-2018-interim-2-study-guide-and-answer-key">January 15, 2018 - Interim #2 study guide and answer key.</h2>
+<p>A pdf copy of the Interim #2 study guide is available <a href="doc/unit2/interim2studyguide.pdf">here</a>. The answer key is available <a href="doc/unit2/interim2studyguide_answerkey.pdf">here</a>.</p>
+<h2 id="january-12-2018-interim-2-access-code">January 12, 2018 - Interim #2 access code</h2>
+<p><strong>Correction:</strong> The passcode that Mr. Howard gave to access the Interim #2 study guide is no longer active. The updated access code is <strong>LA2PU9M</strong>. The study guide can be accessed through SchoolNet using this code.</p>
+<h2 id="january-11-2018-interim-2">January 11, 2018 - Interim #2</h2>
+<p>Interim #2 will begin on Tuesday January 16, in math class. The study guide for the test is now online. All scholars who complete the study guide and submit loose-leaf paper showing all of their work will receive additional points on their test. Scholars can complete the study guide for Interim #2 using SchoolNet with the access code <strong>LA2PU9M</strong>.</p>
+<h1 id="welcome-to-the-7th-grade-math-website">Welcome to the 7th grade math website</h1>
+<p>Follow the links on the navigation bar above to get copies of the homework, projects, and warm-ups. Click on "Other Resources" to access other resources related to the class.</p>
+      
+    </div>
+</section>
+</main>
+<footer>
+</footer>
+</body>
+</html>
