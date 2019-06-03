@@ -2,5 +2,8 @@ BASEURL='https://cdurden.github.io'
 URL='http://localhost'
 
 html:
-	wget -N -t 0 -m -k -E -F --base=${BASEURL} -np ${URL} -nH -P . 
+	wget -F -t 0 -m -k -E --base=${BASEURL} -np ${URL} -nH -P . 
+
+fix:
+	sh FixLinks.sh
 all: html
