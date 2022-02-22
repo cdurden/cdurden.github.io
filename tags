@@ -132,11 +132,8 @@ $c	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.p
 .icon-support:before	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .icon-target:before	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .icon-twitter:before	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
-.inverted table	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 .inverted table	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-.inverted table td	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 .inverted table td	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-.inverted table th	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 .inverted table th	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 .max-full-width	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .nine	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
@@ -156,9 +153,7 @@ $c	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.p
 .one img	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 .pull-left	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .pull-right	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
-.remark-code	css/main.css	/^      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }$/;"	c
 .remark-code	jmamath7/css/main.css	/^       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }$/;"	c
-.remark-inline-code	css/main.css	/^      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }$/;"	c
 .remark-inline-code	jmamath7/css/main.css	/^       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }$/;"	c
 .row	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .row .row	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
@@ -204,7 +199,6 @@ $c	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.p
 .text-right	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .three	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .three img	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
-.title	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	c
 .title	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	c
 .twelve	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	c
 .twelve img	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
@@ -223,26 +217,14 @@ $c	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.p
 Ab	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 Academic Integrity Standards	teaching/ma131/syllabus.md.html	/^<h2 id="academic-integrity-standards">Academic Integrity Standards<\/h2>$/;"	i
 Announcements	jmamath7/index.html	/^        <h1 id="announcements">Announcements<\/h1>$/;"	h
-AnonymousFunction98b9bf470100	virginia.js/atoms.js	/^ns.forEach(function (n) {$/;"	f
-AnonymousFunction98b9bf470200	virginia.js/atoms.js	/^    ls.forEach(function (l) {$/;"	f
-AnonymousFunction98b9bf470300	virginia.js/atoms.js	/^        ms.forEach(function (m) {$/;"	f
-AnonymousFunction98b9bf470400	virginia.js/atoms.js	/^electronStates.sort(function (a, b) {$/;"	f
-AnonymousFunction98b9bf470500	virginia.js/atoms.js	/^electronStates.forEach(function (state, index) {$/;"	f
-AnonymousFunction98b9bf470600	virginia.js/atoms.js	/^    elmts.forEach(function (elmt, i) {$/;"	f
-AnonymousFunction98b9bf470700	virginia.js/atoms.js	/^    return electrons.filter(function (state) {$/;"	f
-AnonymousFunction98b9bf470800	virginia.js/atoms.js	/^        ...electrons.map(function (state) {$/;"	f	function:valenceShell
-AnonymousFunction98b9bf470900	virginia.js/atoms.js	/^        ...electrons.map(function (state) {$/;"	f	function:isFullShell
-AnonymousFunction98b9bf470a00	virginia.js/atoms.js	/^    const label = group.text(function (add) {$/;"	f	function:drawElementBox
-AnonymousFunction98b9bf470b00	virginia.js/atoms.js	/^        add.tspan(function (addMore) {$/;"	f
-AnonymousFunction98b9bf470c00	virginia.js/atoms.js	/^    shell.forEach(function (state, i) {$/;"	f
-AnonymousFunction98b9bf470d00	virginia.js/atoms.js	/^        BrutusinForms.addDecorator(function (element, schema) {$/;"	f
-AnonymousFunction98b9bf470e00	virginia.js/atoms.js	/^                submitButton.addEventListener("click", function () {$/;"	f
-AnonymousFunction98b9bf470f00	virginia.js/atoms.js	/^                        .then(function (response) {$/;"	f
-AnonymousFunction98b9bf471000	virginia.js/atoms.js	/^            ondrop: function (event) {$/;"	f
-AnonymousFunction98b9bf471100	virginia.js/atoms.js	/^                    ...electrons.map(function (state) {$/;"	f	function:AnonymousFunction98b9bf471000
-AnonymousFunction98b9bf471200	virginia.js/atoms.js	/^        .on("dropactivate", function (event) {$/;"	f
-AnonymousFunction9e75e8bc0100	virginia.js/virginia.js	/^document.addEventListener("DOMContentLoaded", function () {$/;"	f
-AnonymousFunction9e75e8bc0200	virginia.js/virginia.js	/^    import(moduleUrl).then(function (module) {$/;"	f
+AnonymousFunction24c152150100	default.js	/^    getFile(file).then(function (response) {$/;"	f
+AnonymousFunction24c152150200	default.js	/^            .attributer(function (d) {$/;"	f
+AnonymousFunction24c152150300	default.js	/^    getFile(file).then(function (response) {$/;"	f
+AnonymousFunction24c152150400	default.js	/^    getFile(file).then(function (response) {$/;"	f
+AnonymousFunction24c152150500	default.js	/^    }).then(function (response) {$/;"	f
+AnonymousFunction24c152150600	default.js	/^            import(moduleUrl).then(function (module) {$/;"	f
+AnonymousFunction953e43290100	virginia.js	/^document.addEventListener("DOMContentLoaded", function () {$/;"	f
+AnonymousFunction953e43290200	virginia.js	/^    import(moduleUrl).then(function (module) {$/;"	f
 AnonymousFunctionb82419f70100	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^}(function( $ ) {$/;"	f
 AnonymousFunctionb82419f70200	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	return function( elems ) {$/;"	f	function:$.cleanData
 AnonymousFunctionb82419f70300	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	$.each( prototype, function( prop, value ) {$/;"	f
@@ -1606,12 +1588,28 @@ AnonymousFunctiond0df7d10fc00	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e|
 AnonymousFunctiond0df7d10fd00	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 AnonymousFunctiond0df7d10fe00	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f	function:AnonymousFunctiond0df7d10fd00
 AnonymousFunctiond0df7d10ff00	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f	function:AnonymousFunctiond0df7d10fd00
+AnonymousFunctionece968d40100	atoms.js	/^ns.forEach(function (n) {$/;"	f
+AnonymousFunctionece968d40200	atoms.js	/^    ls.forEach(function (l) {$/;"	f
+AnonymousFunctionece968d40300	atoms.js	/^        ms.forEach(function (m) {$/;"	f
+AnonymousFunctionece968d40400	atoms.js	/^electronStates.sort(function (a, b) {$/;"	f
+AnonymousFunctionece968d40500	atoms.js	/^electronStates.forEach(function (state, index) {$/;"	f
+AnonymousFunctionece968d40600	atoms.js	/^    elmts.forEach(function (elmt, i) {$/;"	f
+AnonymousFunctionece968d40700	atoms.js	/^    return electrons.filter(function (state) {$/;"	f
+AnonymousFunctionece968d40800	atoms.js	/^        ...electrons.map(function (state) {$/;"	f	function:valenceShell
+AnonymousFunctionece968d40900	atoms.js	/^        ...electrons.map(function (state) {$/;"	f	function:isFullShell
+AnonymousFunctionece968d40a00	atoms.js	/^    const label = group.text(function (add) {$/;"	f	function:drawElementBox
+AnonymousFunctionece968d40b00	atoms.js	/^        add.tspan(function (addMore) {$/;"	f
+AnonymousFunctionece968d40c00	atoms.js	/^    shell.forEach(function (state, i) {$/;"	f
+AnonymousFunctionece968d40d00	atoms.js	/^        BrutusinForms.addDecorator(function (element, schema) {$/;"	f
+AnonymousFunctionece968d40e00	atoms.js	/^                submitButton.addEventListener("click", function () {$/;"	f
+AnonymousFunctionece968d40f00	atoms.js	/^                        .then(function (response) {$/;"	f
+AnonymousFunctionece968d41000	atoms.js	/^            ondrop: function (event) {$/;"	f
+AnonymousFunctionece968d41100	atoms.js	/^                    ...electrons.map(function (state) {$/;"	f	function:AnonymousFunctionece968d41000
+AnonymousFunctionece968d41200	atoms.js	/^        .on("dropactivate", function (event) {$/;"	f
 Attendance Policy	teaching/ma131/syllabus.md.html	/^<h2 id="attendance-policy">Attendance Policy<\/h2>$/;"	i
 B	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f	function:AnonymousFunctiond0df7d102700
-BASEURL	Makefile	/^BASEURL='https:\/\/cdurden.github.io'$/;"	m
 Bb	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 Class Expectations	teaching/ma131/syllabus.md.html	/^<h2 id="class-expectations">Class Expectations<\/h2>$/;"	i
-Contact Information	index.html	/^<h1>Contact Information<\/h1>$/;"	h
 Course Description	teaching/ma131/syllabus.md.html	/^<h2 id="course-description">Course Description<\/h2>$/;"	i
 Course Materials	teaching/ma131/syllabus.md.html	/^<h2 id="course-materials">Course Materials<\/h2>$/;"	i
 Course Objectives and Approach	teaching/ma131/syllabus.md.html	/^<h2 id="course-objectives-and-approach">Course Objectives and Approach<\/h2>$/;"	i
@@ -1623,7 +1621,7 @@ Evaluation	teaching/ma131/syllabus.md.html	/^<h2 id="evaluation">Evaluation<\/h2
 Fb	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 G	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 Graph the derivative (take-home portion of test 1)	teaching/ma131/graphthederivative.md.html	/^        <h1 id="graph-the-derivative-take-home-portion-of-test-1">Graph the derivative (take-hom/;"	h
-Home	index.html	/^<h1>Home<\/h1>$/;"	h
+Hello, world!	index.md	/^# Hello, world!$/;"	c
 Homework (WebAssign)	teaching/ma131/syllabus.md.html	/^<h3 id="homework-webassign">Homework (WebAssign)<\/h3>$/;"	j
 Honor Pledge	teaching/ma131/syllabus.md.html	/^<h3 id="honor-pledge">Honor Pledge<\/h3>$/;"	j
 I	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
@@ -1645,19 +1643,14 @@ Nondiscrimination Policy	teaching/ma131/syllabus.md.html	/^<h2 id="nondiscrimina
 O	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 Oc	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	f
 P	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
-Paddling	paddling.md.html	/^        <h1 id="paddling">Paddling<\/h1>$/;"	h
 Pc	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	f
 Prerequisites:	teaching/ma131/syllabus.md.html	/^<h2 id="prerequisites">Prerequisites:<\/h2>$/;"	i
 Q	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 R	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 Students with Disabilities	teaching/ma131/syllabus.md.html	/^<h2 id="students-with-disabilities">Students with Disabilities<\/h2>$/;"	i
-Teaching	teaching.md.html	/^        <h1 id="teaching">Teaching<\/h1>$/;"	h
 Technology	teaching/ma131/syllabus.md.html	/^<h2 id="technology">Technology<\/h2>$/;"	i
 Tentative Course Schedule (Subject to Change)	teaching/ma131/syllabus.md.html	/^<h2 id="tentative-course-schedule-subject-to-change">Tentative Course Schedule (Subject to Chang/;"	i
 Tests	teaching/ma131/syllabus.md.html	/^<h3 id="tests">Tests<\/h3>$/;"	j
-Tools that I develop	tools.md.html	/^        <h1 id="tools-that-i-develop">Tools that I develop<\/h1>$/;"	h
-Tools that I use	tools.md.html	/^<h1 id="tools-that-i-use">Tools that I use<\/h1>$/;"	h
-URL	Makefile	/^URL='http:\/\/localhost'$/;"	m
 Ub	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 Vb	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 Vc	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	f
@@ -1701,7 +1694,6 @@ _trigger	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		return $.Widget.prototype
 _trigger	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	_trigger: function( type, event, data ) {$/;"	m	class:$.Widget
 _untrackClassesElement	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	_untrackClassesElement: function( event ) {$/;"	m	class:$.Widget
 a	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
-a:active	css/main.css	/^nav a:hover,a:active$/;"	s
 a:hover	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 ab	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	f
 abbr[title]	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
@@ -1711,7 +1703,6 @@ activeElement	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	var activeElement;$/;
 add	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				add: add$/;"	p	class:$.Widget._toggleClass.options
 addBack	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	$.fn.addBack = function( selector ) {$/;"	f	function:$.fn
 addItems	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		function addItems() {$/;"	f	function:AnonymousFunctionb82419f72e300
-all	Makefile	/^all: html$/;"	t
 alpha	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	space.props.alpha = {$/;"	c	class:space.props
 altField	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		altField: "", \/\/ Selector for an alternate field to store selected dates into$/;"	p	class:Datepicker._defaults
 altFormat	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		altFormat: "", \/\/ The date format to use for the alternate field$/;"	p	class:Datepicker._defaults
@@ -1730,10 +1721,8 @@ animation2	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		animation2 = { clip: $.
 announcements	jmamath7/index.html	/^        <h1 id="announcements">Announcements<\/h1>$/;"	I
 appendText	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		appendText: "", \/\/ Display text following the input box, e.g. showing the format$/;"	p	class:Datepicker._defaults
 applyClassChange	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		applyClassChange = function() {$/;"	f	function:$.effects.animateClass.AnonymousFunctionb82419f73b00
-article	css/main.css	/^article$/;"	s
 article	jmamath7/css/main.css	/^article$/;"	s
 article	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
-aside	css/main.css	/^aside$/;"	s
 aside	jmamath7/css/main.css	/^aside$/;"	s
 aside	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 at	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^					at: "left" + ( left >= 0 ? "+" : "" ) + left + " " +$/;"	p	class:options.position
@@ -1754,7 +1743,6 @@ beforeShow	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		beforeShow: null, \/\/ 
 beforeShowDay	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		beforeShowDay: null, \/\/ Function that takes a date and returns an array with$/;"	p	class:Datepicker._defaults
 bindType	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	p	class:m.event.special
 blue	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				blue: {$/;"	c	class:spaces.rgba.props
-body	css/main.css	/^      body {$/;"	s
 body	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 border	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		border: 1,$/;"	p	class:shorthandStyles
 borderBottom	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		borderBottom: 1,$/;"	p	class:shorthandStyles
@@ -1823,16 +1811,12 @@ constructor	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	constructor.prototype =
 containerOffset	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			that.containerOffset = {$/;"	c	class:that
 containerPosition	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			that.containerPosition = {$/;"	c	class:that
 containerSize	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			that.containerSize = {$/;"	c	class:that
-content	index.html	/^    <div id="content">$/;"	I
 content	jmamath7/index.html	/^    <div id="content">$/;"	I
-content	paddling.md.html	/^    <div id="content">$/;"	I
-content	teaching.md.html	/^    <div id="content">$/;"	I
 content	teaching/ma131/announcements/webassign1.md.html	/^    <div id="content">$/;"	I
 content	teaching/ma131/graphthederivative.md.html	/^    <div id="content">$/;"	I
 content	teaching/ma131/schedule.md.html	/^    <div id="content">$/;"	I
 content	teaching/ma131/syllabus.md.html	/^    <div id="content">$/;"	I
 content	teaching/ma131/test1objectives.md.html	/^    <div id="content">$/;"	I
-content	tools.md.html	/^    <div id="content">$/;"	I
 controlgroupCornerRegex	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var controlgroupCornerRegex = \/ui-corner-([a-z]){2,6}\/g;$/;"	v
 cop	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			cop = {$/;"	c	class:AnonymousFunctionb82419f720600
 course-description	teaching/ma131/syllabus.md.html	/^<h2 id="course-description">Course Description<\/h2>$/;"	I
@@ -1883,18 +1867,19 @@ disabled	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		disabled: false,$/;"	p	cl
 display	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			display: this.element[ 0 ].style.display,$/;"	p	class:AnonymousFunctionb82419f721300.originalCss
 domPosition	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		this.domPosition = {$/;"	c	class:AnonymousFunctionb82419f72d300
 done	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			function done() {$/;"	f	function:run
+dotViewer	default.js	/^function dotViewer(file) {$/;"	f
 down	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			down: [ "top", "bottom" ],$/;"	p	class:AnonymousFunctionb82419f77300.map
 down	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			down: [ "top", "bottom" ],$/;"	p	class:AnonymousFunctionb82419f78400.map
 downAnim	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		downAnim = { opacity: 1 };$/;"	c	class:AnonymousFunctionb82419f77400
 drag	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	drag: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
-dragEndListener	virginia.js/atoms.js	/^function dragEndListener(event) {$/;"	f
-dragMoveListener	virginia.js/atoms.js	/^function dragMoveListener(event) {$/;"	f
+dragEndListener	atoms.js	/^function dragEndListener(event) {$/;"	f
+dragMoveListener	atoms.js	/^function dragMoveListener(event) {$/;"	f
 dragStart	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	dragStart: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
-dragStartListener	virginia.js/atoms.js	/^function dragStartListener(event) {$/;"	f
+dragStartListener	atoms.js	/^function dragStartListener(event) {$/;"	f
 dragStop	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	dragStop: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
-drawElementBox	virginia.js/atoms.js	/^function drawElementBox(group, atomicNumber, w, h) {$/;"	f
-drawLewisDotStructure	virginia.js/atoms.js	/^function drawLewisDotStructure(group, atomicNumber, r, theta0 = 0) {$/;"	f
-drawShell	virginia.js/atoms.js	/^function drawShell(group, shell, r, theta0 = 0) {$/;"	f
+drawElementBox	atoms.js	/^function drawElementBox(group, atomicNumber, w, h) {$/;"	f
+drawLewisDotStructure	atoms.js	/^function drawLewisDotStructure(group, atomicNumber, r, theta0 = 0) {$/;"	f
+drawShell	atoms.js	/^function drawShell(group, shell, r, theta0 = 0) {$/;"	f
 drop	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	drop: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
 droppables	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	droppables: { "default": [] },$/;"	c	class:$.ui.ddmanager
 duration	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			options = { duration: options };$/;"	p	class:$.Widget.options
@@ -1925,7 +1910,7 @@ effectsEffectShake	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var effectsEffect
 effectsEffectSize	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var effectsEffectSize = $.effects.define( "size", function( options, done ) {$/;"	v
 effectsEffectSlide	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var effectsEffectSlide = $.effects.define( "slide", "show", function( options, done ) {$/;"	v
 effectsEffectTransfer	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var effectsEffectTransfer = effect;$/;"	v
-electronStates	virginia.js/atoms.js	/^const electronStates = [];$/;"	C
+electronStates	atoms.js	/^const electronStates = [];$/;"	C
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^							element: elem,$/;"	p	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback.element
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^							element: target,$/;"	p	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback.target
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^						element: {$/;"	c	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback
@@ -1936,7 +1921,7 @@ element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				element: shift ? this.el
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			element: element,$/;"	p	class:AnonymousFunctionb82419f737f00.tooltips
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			element: selectmenuId,$/;"	p	class:AnonymousFunctionb82419f727a00.ids
 elementSize	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		this.elementSize = {$/;"	c	class:AnonymousFunctionb82419f72ab00
-elements	virginia.js/atoms.js	/^const elements = new Map([$/;"	C
+elements	atoms.js	/^const elements = new Map([$/;"	C
 enable	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	enable: function() {$/;"	m	class:$.Widget
 entering-a-complex-numerical-expression-into-webassign	teaching/ma131/announcements/webassign1.md.html	/^        <h1 id="entering-a-complex-numerical-expression-into-webassign">Entering a complex numer/;"	I
 escapeSelector	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var escapeSelector = $.ui.escapeSelector = ( function() {$/;"	v
@@ -1949,7 +1934,7 @@ events	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		var events = {$/;"	c	class:
 excludeStaticParent	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		excludeStaticParent = position === "absolute",$/;"	v
 expand	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	m	class:m.cssHooks
 expand	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	expand: function( value ) {$/;"	m	class:jQuery.cssHooks.borderColor
-exportModel	virginia.js/atoms.js	/^function exportModel(model) {$/;"	f
+exportModel	atoms.js	/^function exportModel(model) {$/;"	f
 extend	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^$.widget.extend = function( target ) {$/;"	f	function:$.widget
 extra	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				extra: shift ? keys : extra,$/;"	p	class:$.Widget._toggleClass.options
 f	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f	function:xb
@@ -1966,7 +1951,6 @@ findMax	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				findMax = function( name
 first	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			"first": "ui-corner-" + ( direction ? "top" : "left" ),$/;"	p	class:result.classes
 firstDay	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		firstDay: 0, \/\/ The first day of the week, Sun = 0, Mon = 1, ...$/;"	p	class:Datepicker.regional
 fit	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	fit: {$/;"	c	class:$.ui.position
-fix	Makefile	/^fix:$/;"	t
 float	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^					"float": element.css( "float" )$/;"	p	class:AnonymousFunctionb82419f74f00.props
 floor	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			floor: true$/;"	p	class:propTypes.degrees
 floor	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			floor: true,$/;"	p	class:propTypes.byte
@@ -1975,7 +1959,6 @@ fn	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	$.fn[ name ] = function( options
 fn	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	color.fn[ spaceName ] = function( value ) {$/;"	f	function:color
 focusable	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^$.ui.focusable = function( element, hasTabindex ) {$/;"	f	function:$.ui
 focusable	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var focusable = $.ui.focusable;$/;"	v
-footer	css/main.css	/^footer$/;"	s
 footer	jmamath7/css/main.css	/^footer$/;"	s
 footer	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 form	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		var form = $( this );$/;"	v
@@ -1991,9 +1974,11 @@ gc	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.p
 getAllResponseHeaders	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	m	class:AnonymousFunctiond0df7d1019200.v
 getDimensions	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^function getDimensions( elem ) {$/;"	f	function:AnonymousFunctionb82419f70100
 getElementStyles	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^function getElementStyles( elem ) {$/;"	f
+getFile	common.js	/^function getFile(file, options) {$/;"	f
 getOffsets	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^function getOffsets( offsets, width, height ) {$/;"	f	function:AnonymousFunctionb82419f70100
 getResponseHeader	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	m	class:AnonymousFunctiond0df7d1019200.v
 getScrollInfo	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	getScrollInfo: function( within ) {$/;"	m	class:$.position
+getUrl	common.js	/^function getUrl(file) {$/;"	f
 getWithinInfo	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	getWithinInfo: function( element ) {$/;"	m	class:$.position
 gotoCurrent	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		gotoCurrent: false, \/\/ True if today link goes back to current selection instead$/;"	p	class:Datepicker._defaults
 graph-the-derivative-take-home-portion-of-test-1	teaching/ma131/graphthederivative.md.html	/^        <h1 id="graph-the-derivative-take-home-portion-of-test-1">Graph the derivative (take-hom/;"	I
@@ -2014,7 +1999,6 @@ handlerProxy	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			function handlerProx
 handlerProxy	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		function handlerProxy() {$/;"	f	function:$.Widget._delay
 hb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 hc	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	f
-header	css/main.css	/^header$/;"	s
 header	jmamath7/css/main.css	/^header$/;"	s
 header	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 height	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	p	class:gc.d
@@ -2052,7 +2036,6 @@ horizontal	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^						horizontal: right <
 horizontal	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			horizontal: [ "right", "left" ],$/;"	p	class:AnonymousFunctionb82419f77300.map
 hr	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 hsla	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		hsla: {$/;"	c	class:spaces
-html	Makefile	/^html:$/;"	t
 html	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 html[type=button]	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 hue	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				hue: {$/;"	c	class:spaces.hsla.props
@@ -2090,7 +2073,7 @@ input[type=reset] :hover	jmamath7/css/main.css	/^html{font-family:sans-serif;lin
 input[type=submit]	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 input[type=submit] :focus	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 input[type=submit] :hover	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
-isFullShell	virginia.js/atoms.js	/^function isFullShell(electrons) {$/;"	f
+isFullShell	atoms.js	/^function isFullShell(electrons) {$/;"	f
 isOverAxis	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	function isOverAxis( x, reference, size ) {$/;"	f	function:AnonymousFunctionb82419f725c00
 isRTL	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		isRTL: false, \/\/ True if right-to-left language, false if left-to-right$/;"	p	class:Datepicker.regional
 item	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		var ui = { item: this.active };$/;"	p	class:AnonymousFunctionb82419f7de00.ui
@@ -2103,6 +2086,7 @@ january-15-2018-interim-2-study-guide-and-answer-key	jmamath7/index.html	/^<h2 i
 january-17-2018-relearn-and-retake	jmamath7/index.html	/^<h2 id="january-17-2018-relearn-and-retake">January 17, 2018 - Relearn and Retake<\/h2>$/;"	I
 jb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 jc	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	f
+jsonViewer	default.js	/^function jsonViewer(file, searchParams) {$/;"	f
 kb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 kbd	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 kc	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	f
@@ -2159,10 +2143,9 @@ m	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"ob
 m	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	f	function:AnonymousFunctiond0df7d1019600
 ma-131-002-spring-2016-schedule	teaching/ma131/schedule.md.html	/^        <h1 id="ma-131-002-spring-2016-schedule">MA 131-002 — Spring 2016 — Schedule<\/h1>$/;"	I
 ma131-002-calculus-for-life-and-management-sciences-3-units-spring-2016	teaching/ma131/syllabus.md.html	/^        <h1 id="ma131-002-calculus-for-life-and-management-sciences-3-units-spring-2016">MA131-0/;"	I
-main	css/main.css	/^main$/;"	s
+main	atoms.js	/^function main() {$/;"	f
+main	default.js	/^function main() {$/;"	f
 main	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
-main	virginia.js/atoms.js	/^function main() {$/;"	f
-main p	css/main.css	/^main p$/;"	s
 map	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		map = {$/;"	c	class:AnonymousFunctionb82419f78400
 map	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	var map = {$/;"	c	class:AnonymousFunctionb82419f77300
 margin	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		margin: 1,$/;"	p	class:shorthandStyles
@@ -2183,6 +2166,7 @@ maxHeight	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			maxHeight: this._isNumb
 maxHeight	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			maxHeight: this.element[ 0 ].style.maxHeight,$/;"	p	class:AnonymousFunctionb82419f721300.originalCss
 maxWidth	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			maxWidth: this._isNumber( o.maxWidth ) ? o.maxWidth : Infinity,$/;"	p	class:AnonymousFunctionb82419f71f100.b
 mb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
+mdViewer	default.js	/^function mdViewer(file) {$/;"	f
 menu	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 menu	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			menu: selectmenuId + "-menu"$/;"	p	class:AnonymousFunctionb82419f727a00.ids
 menuInstance	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		this.menuInstance._closeOnDocumentClick = function() {$/;"	m
@@ -2197,13 +2181,8 @@ monthNames	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		monthNames: [ "January"
 monthNamesShort	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		monthNamesShort: [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"/;"	p	class:Datepicker.regional
 mouseHandled	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var mouseHandled = false;$/;"	v
 my	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^					my: "left top",$/;"	p	class:options.position
-nav	css/main.css	/^nav$/;"	s
 nav	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 nav	jmamath7/css/main.css	/^nav$/;"	s
-nav a	css/main.css	/^nav a$/;"	s
-nav a:hover	css/main.css	/^nav a:hover,a:active$/;"	s
-nav li	css/main.css	/^nav li$/;"	s
-nav ul	css/main.css	/^nav ul$/;"	s
 nav ul li	jmamath7/css/main.css	/^nav ul li$/;"	s
 navigationAsDateFormat	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		navigationAsDateFormat: false, \/\/ True if date formatting applied to prev\/today\/next links$/;"	p	class:Datepicker._defaults
 nb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
@@ -2214,7 +2193,7 @@ newTab	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				newTab: collapsing ? $() 
 next	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				next: function() {$/;"	m	class:AnonymousFunctionb82419f718700.handler
 nextText	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		nextText: "Next", \/\/ Display text for next month link$/;"	p	class:Datepicker.regional
 nondiscrimination-policy	teaching/ma131/syllabus.md.html	/^<h2 id="nondiscrimination-policy">Nondiscrimination Policy<\/h2>$/;"	I
-ns	virginia.js/atoms.js	/^const ns = [0, 1, 2, 3, 4, 5];$/;"	C
+ns	atoms.js	/^const ns = [0, 1, 2, 3, 4, 5];$/;"	C
 number	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 numberOfMonths	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		numberOfMonths: 1, \/\/ Number of months to show at a time$/;"	p	class:Datepicker._defaults
 ob	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
@@ -2261,7 +2240,6 @@ overflowRegex	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		overflowRegex = incl
 overrideMimeType	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	m	class:AnonymousFunctiond0df7d1019200.v
 p	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 padding	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		padding: 1$/;"	p	class:shorthandStyles
-paddling	paddling.md.html	/^        <h1 id="paddling">Paddling<\/h1>$/;"	I
 panel	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				panel: panel$/;"	p	class:AnonymousFunctionb82419f736000.eventData
 parent	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			parent: this._getParentOffset(),$/;"	p	class:AnonymousFunctionb82419f71b200.offset
 parent	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			parent: this.currentItem.parent()[ 0 ]$/;"	p	class:AnonymousFunctionb82419f72d300.domPosition
@@ -2322,7 +2300,7 @@ relative	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			relative: this._getRelat
 remove	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			events.remove = function() {$/;"	c	class:events
 reset	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 result	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		var result = {$/;"	c	class:AnonymousFunctionb82419f711c00
-reviver	virginia.js/atoms.js	/^function reviver(key, value) {$/;"	f
+reviver	atoms.js	/^function reviver(key, value) {$/;"	f
 rgba	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		rgba: {$/;"	c	class:spaces
 right	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			right: ( parseInt( this.element.css( "marginRight" ), 10 ) || 0 ),$/;"	p	class:AnonymousFunctionb82419f71c100.margins
 right	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			right: [ "left", "right" ]$/;"	p	class:AnonymousFunctionb82419f77300.map
@@ -2340,7 +2318,6 @@ scroll	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			scroll: false,$/;"	p	class
 scrollParent	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var scrollParent = $.fn.scrollParent = function( includeHidden ) {$/;"	v
 scrollbarWidth	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	scrollbarWidth: function() {$/;"	m	class:$.position
 search	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
-section	css/main.css	/^section$/;"	s
 section	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 section	jmamath7/css/main.css	/^section$/;"	s
 select	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
@@ -2352,7 +2329,7 @@ selector	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	var ancestor, selector, id
 set	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			set = instance.plugins[ name ];$/;"	v
 setRequestHeader	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	m	class:AnonymousFunctiond0df7d1019200.v
 setup	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	m	class:m.event.special
-shell	virginia.js/atoms.js	/^function shell(electrons, n) {$/;"	f
+shell	atoms.js	/^function shell(electrons, n) {$/;"	f
 shortYearCutoff	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		shortYearCutoff: "+10", \/\/ Short year values < this are in the current century,$/;"	p	class:Datepicker._defaults
 shorthandStyles	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	shorthandStyles = {$/;"	c
 show	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		function show() {$/;"	f	function:AnonymousFunctionb82419f735300
@@ -2397,24 +2374,16 @@ supportElem	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	supportElem = jQuery( "
 svg:not(:root)	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 tab	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				tab: tab,$/;"	p	class:AnonymousFunctionb82419f736000.eventData
 tabbable	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var tabbable = $.extend( $.expr[ ":" ], {$/;"	v
-table	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-table td	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table td	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-table th	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table th	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-table th:first-child	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table th:first-child	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-table th:last-child	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table th:last-child	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-table tr:last-child td:first-child	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table tr:last-child td:first-child	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-table tr:last-child td:last-child	css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table tr:last-child td:last-child	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
-take	virginia.js/atoms.js	/^function take(n, elmts) {$/;"	f
+take	atoms.js	/^function take(n, elmts) {$/;"	f
 target	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^						target: {$/;"	c	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback
 tb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
-teaching	teaching.md.html	/^        <h1 id="teaching">Teaching<\/h1>$/;"	I
 teardown	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	m	class:m.event.special
 technology	teaching/ma131/syllabus.md.html	/^<h2 id="technology">Technology<\/h2>$/;"	I
 tentative-course-schedule-subject-to-change	teaching/ma131/syllabus.md.html	/^<h2 id="tentative-course-schedule-subject-to-change">Tentative Course Schedule (Subject to Chang/;"	I
@@ -2427,8 +2396,6 @@ to	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		to: {$/;"	c	class:AnonymousFunc
 to	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^spaces.hsla.to = function( rgba ) {$/;"	f	function:spaces.hsla
 toLowerCase	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	$.expr[ ":" ][ fullName.toLowerCase() ] = function( elem ) {$/;"	f	function:$.expr
 today	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				today: function() {$/;"	m	class:AnonymousFunctionb82419f718700.handler
-tools-that-i-develop	tools.md.html	/^        <h1 id="tools-that-i-develop">Tools that I develop<\/h1>$/;"	I
-tools-that-i-use	tools.md.html	/^<h1 id="tools-that-i-use">Tools that I use<\/h1>$/;"	I
 tooltip	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			tooltip: tooltip$/;"	p	class:AnonymousFunctionb82419f737f00.tooltips
 tooltips	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		return this.tooltips[ id ] = {$/;"	c	class:AnonymousFunctionb82419f737f00
 top	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	p	class:AnonymousFunctiond0df7d101c000.d
@@ -2463,6 +2430,7 @@ top	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		this.originalPosition = { left
 top	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		this.position = { left: curleft, top: curtop };$/;"	p	class:AnonymousFunctionb82419f71ec00.position
 top	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		top: function( position, data ) {$/;"	m	class:$.ui.position
 top	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		top: vertical ? ( start.bottom - start.top ) \/ 2 : start.top,$/;"	p	class:animate.clip
+txtViewer	default.js	/^function txtViewer(file) {$/;"	f
 type	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 type	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^					type: "byte"$/;"	p	class:spaces.rgba.props.blue
 type	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^					type: "byte"$/;"	p	class:spaces.rgba.props.green
@@ -2483,13 +2451,13 @@ upAnim	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		upAnim = { opacity: 0 };$/;
 update	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				update: function( container, p ) {$/;"	m	class:o.placeholder
 using	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			using = function( props ) {$/;"	f	function:$.fn.position.AnonymousFunctionb82419f71300
 v	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	c	class:AnonymousFunctiond0df7d1019200
-valenceShell	virginia.js/atoms.js	/^function valenceShell(electrons) {$/;"	f
+valenceShell	atoms.js	/^function valenceShell(electrons) {$/;"	f
 value	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			value: value !== undefined ? value : this.value()$/;"	p	class:AnonymousFunctionb82419f72b200.uiHash
 vb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 vertical	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^						vertical: bottom < 0 ? "top" : top > 0 ? "bottom" : "middle"$/;"	p	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback
 vertical	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			vertical: [ "bottom", "top" ],$/;"	p	class:AnonymousFunctionb82419f77300.map
 video	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
-virginia-content	virginia.js/index.html	/^        <div id="virginia-content"><\/div>$/;"	I
+virginia-content	index.html	/^        <div id="virginia-content"><\/div>$/;"	I
 visible	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^function visible( element ) {$/;"	f
 w	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 wb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
