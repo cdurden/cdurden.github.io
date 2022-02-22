@@ -223,8 +223,28 @@ AnonymousFunction24c152150300	default.js	/^    getFile(file).then(function (resp
 AnonymousFunction24c152150400	default.js	/^    getFile(file).then(function (response) {$/;"	f
 AnonymousFunction24c152150500	default.js	/^    }).then(function (response) {$/;"	f
 AnonymousFunction24c152150600	default.js	/^            import(moduleUrl).then(function (module) {$/;"	f
+AnonymousFunction4af8da180100	oddities/atoms.js	/^ns.forEach(function (n) {$/;"	f
+AnonymousFunction4af8da180200	oddities/atoms.js	/^    ls.forEach(function (l) {$/;"	f
+AnonymousFunction4af8da180300	oddities/atoms.js	/^        ms.forEach(function (m) {$/;"	f
+AnonymousFunction4af8da180400	oddities/atoms.js	/^electronStates.sort(function (a, b) {$/;"	f
+AnonymousFunction4af8da180500	oddities/atoms.js	/^electronStates.forEach(function (state, index) {$/;"	f
+AnonymousFunction4af8da180600	oddities/atoms.js	/^    elmts.forEach(function (elmt, i) {$/;"	f
+AnonymousFunction4af8da180700	oddities/atoms.js	/^    return electrons.filter(function (state) {$/;"	f
+AnonymousFunction4af8da180800	oddities/atoms.js	/^        ...electrons.map(function (state) {$/;"	f	function:valenceShell
+AnonymousFunction4af8da180900	oddities/atoms.js	/^        ...electrons.map(function (state) {$/;"	f	function:isFullShell
+AnonymousFunction4af8da180a00	oddities/atoms.js	/^    const label = group.text(function (add) {$/;"	f	function:drawElementBox
+AnonymousFunction4af8da180b00	oddities/atoms.js	/^        add.tspan(function (addMore) {$/;"	f
+AnonymousFunction4af8da180c00	oddities/atoms.js	/^    shell.forEach(function (state, i) {$/;"	f
+AnonymousFunction4af8da180d00	oddities/atoms.js	/^        BrutusinForms.addDecorator(function (element, schema) {$/;"	f
+AnonymousFunction4af8da180e00	oddities/atoms.js	/^                submitButton.addEventListener("click", function () {$/;"	f
+AnonymousFunction4af8da180f00	oddities/atoms.js	/^                        .then(function (response) {$/;"	f
+AnonymousFunction4af8da181000	oddities/atoms.js	/^            ondrop: function (event) {$/;"	f
+AnonymousFunction4af8da181100	oddities/atoms.js	/^                    ...electrons.map(function (state) {$/;"	f	function:AnonymousFunction4af8da181000
+AnonymousFunction4af8da181200	oddities/atoms.js	/^        .on("dropactivate", function (event) {$/;"	f
 AnonymousFunction953e43290100	virginia.js	/^document.addEventListener("DOMContentLoaded", function () {$/;"	f
 AnonymousFunction953e43290200	virginia.js	/^    import(moduleUrl).then(function (module) {$/;"	f
+AnonymousFunctionab095ded0100	oddities/virginia.js	/^document.addEventListener("DOMContentLoaded", function () {$/;"	f
+AnonymousFunctionab095ded0200	oddities/virginia.js	/^    import(moduleUrl).then(function (module) {$/;"	f
 AnonymousFunctionb82419f70100	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^}(function( $ ) {$/;"	f
 AnonymousFunctionb82419f70200	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	return function( elems ) {$/;"	f	function:$.cleanData
 AnonymousFunctionb82419f70300	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	$.each( prototype, function( prop, value ) {$/;"	f
@@ -1873,13 +1893,19 @@ down	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			down: [ "top", "bottom" ],$/
 downAnim	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		downAnim = { opacity: 1 };$/;"	c	class:AnonymousFunctionb82419f77400
 drag	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	drag: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
 dragEndListener	atoms.js	/^function dragEndListener(event) {$/;"	f
+dragEndListener	oddities/atoms.js	/^function dragEndListener(event) {$/;"	f
 dragMoveListener	atoms.js	/^function dragMoveListener(event) {$/;"	f
+dragMoveListener	oddities/atoms.js	/^function dragMoveListener(event) {$/;"	f
 dragStart	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	dragStart: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
 dragStartListener	atoms.js	/^function dragStartListener(event) {$/;"	f
+dragStartListener	oddities/atoms.js	/^function dragStartListener(event) {$/;"	f
 dragStop	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	dragStop: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
 drawElementBox	atoms.js	/^function drawElementBox(group, atomicNumber, w, h) {$/;"	f
+drawElementBox	oddities/atoms.js	/^function drawElementBox(group, atomicNumber, w, h) {$/;"	f
 drawLewisDotStructure	atoms.js	/^function drawLewisDotStructure(group, atomicNumber, r, theta0 = 0) {$/;"	f
+drawLewisDotStructure	oddities/atoms.js	/^function drawLewisDotStructure(group, atomicNumber, r, theta0 = 0) {$/;"	f
 drawShell	atoms.js	/^function drawShell(group, shell, r, theta0 = 0) {$/;"	f
+drawShell	oddities/atoms.js	/^function drawShell(group, shell, r, theta0 = 0) {$/;"	f
 drop	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	drop: function( draggable, event ) {$/;"	m	class:$.ui.ddmanager
 droppables	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	droppables: { "default": [] },$/;"	c	class:$.ui.ddmanager
 duration	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			options = { duration: options };$/;"	p	class:$.Widget.options
@@ -1911,6 +1937,7 @@ effectsEffectSize	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var effectsEffectS
 effectsEffectSlide	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var effectsEffectSlide = $.effects.define( "slide", "show", function( options, done ) {$/;"	v
 effectsEffectTransfer	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var effectsEffectTransfer = effect;$/;"	v
 electronStates	atoms.js	/^const electronStates = [];$/;"	C
+electronStates	oddities/atoms.js	/^const electronStates = [];$/;"	C
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^							element: elem,$/;"	p	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback.element
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^							element: target,$/;"	p	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback.target
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^						element: {$/;"	c	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback
@@ -1922,6 +1949,7 @@ element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			element: element,$/;"	p	c
 element	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			element: selectmenuId,$/;"	p	class:AnonymousFunctionb82419f727a00.ids
 elementSize	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		this.elementSize = {$/;"	c	class:AnonymousFunctionb82419f72ab00
 elements	atoms.js	/^const elements = new Map([$/;"	C
+elements	oddities/atoms.js	/^const elements = new Map([$/;"	C
 enable	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	enable: function() {$/;"	m	class:$.Widget
 entering-a-complex-numerical-expression-into-webassign	teaching/ma131/announcements/webassign1.md.html	/^        <h1 id="entering-a-complex-numerical-expression-into-webassign">Entering a complex numer/;"	I
 escapeSelector	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^var escapeSelector = $.ui.escapeSelector = ( function() {$/;"	v
@@ -1935,6 +1963,7 @@ excludeStaticParent	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		excludeStaticP
 expand	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	m	class:m.cssHooks
 expand	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	expand: function( value ) {$/;"	m	class:jQuery.cssHooks.borderColor
 exportModel	atoms.js	/^function exportModel(model) {$/;"	f
+exportModel	oddities/atoms.js	/^function exportModel(model) {$/;"	f
 extend	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^$.widget.extend = function( target ) {$/;"	f	function:$.widget
 extra	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				extra: shift ? keys : extra,$/;"	p	class:$.Widget._toggleClass.options
 f	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f	function:xb
@@ -2074,6 +2103,7 @@ input[type=submit]	jmamath7/css/main.css	/^html{font-family:sans-serif;line-heig
 input[type=submit] :focus	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 input[type=submit] :hover	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 isFullShell	atoms.js	/^function isFullShell(electrons) {$/;"	f
+isFullShell	oddities/atoms.js	/^function isFullShell(electrons) {$/;"	f
 isOverAxis	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	function isOverAxis( x, reference, size ) {$/;"	f	function:AnonymousFunctionb82419f725c00
 isRTL	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		isRTL: false, \/\/ True if right-to-left language, false if left-to-right$/;"	p	class:Datepicker.regional
 item	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		var ui = { item: this.active };$/;"	p	class:AnonymousFunctionb82419f7de00.ui
@@ -2146,6 +2176,7 @@ ma131-002-calculus-for-life-and-management-sciences-3-units-spring-2016	teaching
 main	atoms.js	/^function main() {$/;"	f
 main	default.js	/^function main() {$/;"	f
 main	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
+main	oddities/atoms.js	/^function main() {$/;"	f
 map	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		map = {$/;"	c	class:AnonymousFunctionb82419f78400
 map	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	var map = {$/;"	c	class:AnonymousFunctionb82419f77300
 margin	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		margin: 1,$/;"	p	class:shorthandStyles
@@ -2194,11 +2225,13 @@ next	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				next: function() {$/;"	m	cl
 nextText	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		nextText: "Next", \/\/ Display text for next month link$/;"	p	class:Datepicker.regional
 nondiscrimination-policy	teaching/ma131/syllabus.md.html	/^<h2 id="nondiscrimination-policy">Nondiscrimination Policy<\/h2>$/;"	I
 ns	atoms.js	/^const ns = [0, 1, 2, 3, 4, 5];$/;"	C
+ns	oddities/atoms.js	/^const ns = [0, 1, 2, 3, 4, 5];$/;"	C
 number	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 numberOfMonths	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		numberOfMonths: 1, \/\/ Number of months to show at a time$/;"	p	class:Datepicker._defaults
 ob	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 obj	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			obj = { left: +obj[ 0 ], top: +obj[ 1 ] || 0 };$/;"	c	class:AnonymousFunctionb82419f71bd00
 obj	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			obj = { left: +obj[ 0 ], top: +obj[ 1 ] || 0 };$/;"	c	class:AnonymousFunctionb82419f72ed00
+oddities	oddities/README.md	/^# oddities/;"	c
 of	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^					of: that.window$/;"	p	class:options.position
 offset	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			this.offset.scroll = {$/;"	c
 offset	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		offset = { left: $.datepicker._pos[ 0 ], top: $.datepicker._pos[ 1 ] };$/;"	c	class:AnonymousFunctionb82419f716100
@@ -2301,6 +2334,7 @@ remove	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			events.remove = function()
 reset	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 result	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		var result = {$/;"	c	class:AnonymousFunctionb82419f711c00
 reviver	atoms.js	/^function reviver(key, value) {$/;"	f
+reviver	oddities/atoms.js	/^function reviver(key, value) {$/;"	f
 rgba	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		rgba: {$/;"	c	class:spaces
 right	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			right: ( parseInt( this.element.css( "marginRight" ), 10 ) || 0 ),$/;"	p	class:AnonymousFunctionb82419f71c100.margins
 right	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			right: [ "left", "right" ]$/;"	p	class:AnonymousFunctionb82419f77300.map
@@ -2330,6 +2364,7 @@ set	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			set = instance.plugins[ name 
 setRequestHeader	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	m	class:AnonymousFunctiond0df7d1019200.v
 setup	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	m	class:m.event.special
 shell	atoms.js	/^function shell(electrons, n) {$/;"	f
+shell	oddities/atoms.js	/^function shell(electrons, n) {$/;"	f
 shortYearCutoff	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		shortYearCutoff: "+10", \/\/ Short year values < this are in the current century,$/;"	p	class:Datepicker._defaults
 shorthandStyles	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^	shorthandStyles = {$/;"	c
 show	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^		function show() {$/;"	f	function:AnonymousFunctionb82419f735300
@@ -2382,6 +2417,7 @@ table th:last-child	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;borde
 table tr:last-child td:first-child	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 table tr:last-child td:last-child	jmamath7/css/main.css	/^ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7e/;"	s
 take	atoms.js	/^function take(n, elmts) {$/;"	f
+take	oddities/atoms.js	/^function take(n, elmts) {$/;"	f
 target	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^						target: {$/;"	c	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback
 tb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 teardown	jmamath7/js/jquery-latest.min.js	/^if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c.pop()||m.guid++/;"	m	class:m.event.special
@@ -2452,12 +2488,14 @@ update	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^				update: function( contain
 using	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			using = function( props ) {$/;"	f	function:$.fn.position.AnonymousFunctionb82419f71300
 v	jmamath7/js/jquery-latest.min.js	/^},cur:function(){var a=Zb.propHooks[this.prop];return a&&a.get?a.get(this):Zb.propHooks._default/;"	c	class:AnonymousFunctiond0df7d1019200
 valenceShell	atoms.js	/^function valenceShell(electrons) {$/;"	f
+valenceShell	oddities/atoms.js	/^function valenceShell(electrons) {$/;"	f
 value	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			value: value !== undefined ? value : this.value()$/;"	p	class:AnonymousFunctionb82419f72b200.uiHash
 vb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 vertical	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^						vertical: bottom < 0 ? "top" : top > 0 ? "bottom" : "middle"$/;"	p	class:$.fn.position.AnonymousFunctionb82419f71300.using.feedback
 vertical	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^			vertical: [ "bottom", "top" ],$/;"	p	class:AnonymousFunctionb82419f77300.map
 video	jmamath7/css/main.css	/^html{font-family:sans-serif;line-height:1.15}article,aside,details,figcaption,figure,footer,head/;"	s
 virginia-content	index.html	/^        <div id="virginia-content"><\/div>$/;"	I
+virginia-content	oddities/index.html	/^        <div id="virginia-content"><\/div>$/;"	I
 visible	jmamath7/js/jquery-ui-1.12.1/jquery-ui.js	/^function visible( element ) {$/;"	f
 w	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f
 wb	jmamath7/js/jquery-latest.min.js	/^!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.documen/;"	f

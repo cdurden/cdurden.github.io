@@ -1,0 +1,3 @@
+[submodule "oddities"]
+	path = oddities
+	url = git@github.com:cdurden/oddities.git
