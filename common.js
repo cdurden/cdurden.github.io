@@ -1,4 +1,3 @@
-import "./axios.min.js";
 function getUrl(file) {
     return file;
 }
