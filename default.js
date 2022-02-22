@@ -61,7 +61,7 @@ function jsonViewer(file, searchParams) {
 function main() {
     const url = new URL(window.location.href);
     const searchParams = new URLSearchParams(window.location.search);
-    const file = searchParams.get("file") ?? index.md;
+    const file = searchParams.get("file") ?? "index.md";
     const handlers = new Map([
         ["dot", dotViewer],
         ["txt", txtViewer],
