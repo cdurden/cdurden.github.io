@@ -3,6 +3,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const searchParams = new URLSearchParams(window.location.search);
     const moduleUrl = searchParams.get("module") ?? "./default.js";
     import(moduleUrl).then(function (module) {
-        module["main"]();
+        module["main"](searchParams);
     });
 });
