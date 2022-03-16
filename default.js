@@ -1,4 +1,6 @@
-import { getFile } from "./common.js";
+function getFile(file, options) {
+    return axios.get(getUrl(file), options);
+}
 
 function dotViewer(file) {
     getFile(file).then(function (response) {
