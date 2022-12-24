@@ -29,6 +29,13 @@ function dotViewer(file) {
             .renderDot(response.data);
     });
 }
+function htmlViewer(file) {
+    getFile(file).then(function (response) {
+        document.getElementById(
+            "virginia-content"
+        ).innerHTML = response.data;
+    });
+}
 function txtViewer(file) {
     getFile(file).then(function (response) {
         document.getElementById(
@@ -73,6 +80,7 @@ function main() {
         ["txt", txtViewer],
         ["json", jsonViewer],
         ["md", mdViewer],
+        ["html", htmlViewer],
     ]);
     const extension = file.split(".").pop();
     handlers.get(extension)(file, searchParams);
