@@ -1,4 +1,5 @@
 <span style="font-size: 2em; font-weight: bold;">Chris Durden</span><br/>
+
 <img src="/images/faceshot.jpg" alt="Faceshot" height="250px" style="padding: 5px;"/><br/>
 <a href="https://github.com/cdurden" alt="Chris Durden's GitHub profile">
 <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github">
