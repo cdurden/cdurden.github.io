@@ -14,5 +14,6 @@
 ## Blog posts
 
 <!-- * [Using dotpipeR for teaching](/?file=./Blog/DotPipeRTeaching.md) (Dec 24 2022) -->
+ * [Rotational connection](/?file=./Blog/RotationalConnection.md) (May 25, 2026)
  * [Creating a hallpass system using Google App Script](/?file=./Blog/HallpassWithGAS.html) (Dec 24 2022)
  * [Hello, world!](/?file=./Blog/HelloWorld.md) (Mar 15 2022)
